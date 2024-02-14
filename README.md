@@ -3,7 +3,7 @@ Description: Suppose one company,Chandragiri Hills wants to start its IPO soon. 
 Suppose we have several projects. For each project i, it has a pure profit Pi and a minimum capital of Ci is needed to start the corresponding project. At first, we have W capital. When we finish a project, we will obtain its pure profit and the profit will be added to our total capital.
 To sum up, pick a list of at most k distinct projects from given projects list to maximize our final capital, and output the final maximized capital.
 So if the input is like − k = 2, W = 0, profit list is like [1,2,4], capital is [0,1,1] ,then the output is 5.
-  ![ipo ss](https://github.com/sujanacharya39/MaximumIpoProfit/assets/152710537/083f2b24-5e30-48ab-8aed-c214723e76f9)
+  
  
  
  
