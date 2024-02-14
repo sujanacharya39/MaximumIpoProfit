@@ -7,3 +7,5 @@ So if the input is like − k = 2, W = 0, profit list is like [1,2,4], capital i
  
     
 
+This is because, as we have capital 0 at first, so we can start project at index 0, so we can get profit 1, so capital will be 1. With capital 1, we can start project at index 1 or 2, we will select project at index 2 to get more profit, so the final answer will be 0 + 1 + 4 = 5.
+
