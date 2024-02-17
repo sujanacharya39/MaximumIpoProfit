@@ -66,13 +66,13 @@ public:
                vector<int>v,v1;
                 for(int i=0;i<PC;i++)
 {
-                   int a[i];
+                   int a[i],b[i];
                    cout<<"Enter the profit"<<" "<<i+1<<":"<<endl;
                     cin>>a[i];
                      v.push_back(a[i]);
                       cout<<"Enter the capital for"<<" "<<i+1<<" " <<"profit"<<":";
-                        cin>>a[i];
-                        v1.push_back(a[i]);
+                        cin>>b[i];
+                        v1.push_back(b[i]);
 }
 
 
