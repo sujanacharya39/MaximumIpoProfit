@@ -79,5 +79,5 @@ public:
 // verify for the description portion
 //   vector<int> v = {1,2,3}, v1 = {0,1,1};
 // cout<<ipo.findMaximizedCapital(2,0,v,v1);
-   cout<<ipo.findMaximizedCapital(n,c, v, v1);
+   cout<<"The total capital is:"<< ipo.findMaximizedCapital(n,c, v, v1);
 }
